@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_rev - print in reverse
+ * print_rev - prints in reverse
  * @s: string
  * return: 0
  */
@@ -13,7 +13,7 @@ void print_rev(char *s)
 	{
 		shorti++;
 		s++;
-	i}
+	}
 	s--;
 	for (o = shorti; o > 0; o--)
 	{
